@@ -1,0 +1,8 @@
+torch
+ale-py
+gymnasium
+numpy
+Pillow
+torchvision
+imageio
+ipython
