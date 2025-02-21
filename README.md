@@ -9,6 +9,7 @@ Training the AI to play the old PACMAN game
 
 
 !pip install gymnasium
+
 !pip install "gymnasium[atari, accept-rom-license]"
 
 !apt-get install -y swig
